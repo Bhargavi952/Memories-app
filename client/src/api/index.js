@@ -1,6 +1,8 @@
 import axios from "axios";
 
-const API = axios.create({baseURL:"https://memories-app113.herokuapp.com/"})
+const API = axios.create({
+  baseURL: "https://memories-app-kw34.onrender.com/",
+});
 // const url = "http://localhost:5000/posts";
 
 export const fetchPosts = () => API.get('/posts');
