@@ -40,15 +40,17 @@ Start the server
 ## Snapshots
 ### Home Page
 
-![2021-08-24-23-21-04](https://user-images.githubusercontent.com/77036158/130665521-b80e9451-7649-4c6f-9446-93cd8bff8358.png)
+![memroy-home](https://github.com/user-attachments/assets/b55c2a47-8399-43d1-98d0-2bb6af5430e4)
+
 
 ### SignIn Page
 
-![2021-08-26-21-07-57](https://user-images.githubusercontent.com/77036158/130994230-a6060284-0365-47c9-ac3a-ff5e980e8a59.png)
+![memory_login](https://github.com/user-attachments/assets/a0c1fb34-bd7d-428e-91b0-717a603f8c82)
+
 
 ### SignUp Page
 
-![2021-08-26-21-08-07](https://user-images.githubusercontent.com/77036158/130994235-8ac1fde1-c531-4ddb-bf93-f13b9d69383b.png)
+![memory-sign-up](https://github.com/user-attachments/assets/1660def5-9d56-4e50-9953-150c2342956c)
 
 
 ## Libraries Used
@@ -66,5 +68,4 @@ Start the server
 - Cors
 ## View
 - deployed on netlify
-## https://memories-app3.netlify.app/
-
+## https://memories-creator-app.netlify.app/
